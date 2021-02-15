@@ -1,4 +1,4 @@
-#PA02 Problem1  Tic-Tac-Toe
+#Tic-Tac-Toe
 
 #Importing some additional (optional) packages.
 import pyfiglet # To draw the group's name
